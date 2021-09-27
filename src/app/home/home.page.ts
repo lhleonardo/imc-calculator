@@ -10,6 +10,7 @@ export class HomePage {
 
   weight: number;
   height: number;
+  msgClassificação: string;
 
   constructor(private toastController: ToastController) {}
 
